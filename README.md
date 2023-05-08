@@ -1,3 +1,3 @@
-# hello-world
+# 概要
 
-いろいろな言語でHello Worldを表示する
+いろいろな言語でHello Worldを表示する。
