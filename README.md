@@ -4,4 +4,5 @@
 
 ## 言語
 
-- [Rust](rust)
+- [Rust](./rust)
+- [Zig](./zig)
