@@ -92,3 +92,7 @@ Elixir.Hello.beam	hello_world.ex
 $ elixir -e Hello.world
 Hello world
 ```
+
+## その他
+
+この内容はZennの[記事](https://zenn.dev/naopusyu/articles/4c83d5746fe491)に書いてあります。
