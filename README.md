@@ -2,7 +2,8 @@
 
 いろいろな言語で遊ぶ
 
-## 言語
+## hello world
 
-- [Rust](./rust)
-- [Zig](./zig)
+- [Elixir](./elixir/helloworld/)
+- [Rust](./rust/helloworld/)
+- [Zig](./zig/helloworld/)
