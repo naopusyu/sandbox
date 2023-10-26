@@ -8,7 +8,7 @@ use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 use Throwable;
 
-class LifecycleTest extends TestCase
+class Lifecycle2Test extends TestCase
 {
     public static function setUpBeforeClass(): void
     {
