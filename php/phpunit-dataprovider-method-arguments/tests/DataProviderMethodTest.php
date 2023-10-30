@@ -7,7 +7,10 @@ namespace Tests;
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 
-class DataProviderMethodTest extends TestCase
+/**
+ * これはPHPUnit 10.xで確認したテストクラス
+ */
+class PHPUnit10DataProviderMethodTest extends TestCase
 {
     public static function provider(string $testMethod): array
     {
