@@ -1,0 +1,20 @@
+{
+    "require-dev": {
+        "pestphp/pest": "^2.35"
+    },
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "autoload-dev": {
+        "file": [
+            "tests/SnapshotTest.php"
+        ]
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
