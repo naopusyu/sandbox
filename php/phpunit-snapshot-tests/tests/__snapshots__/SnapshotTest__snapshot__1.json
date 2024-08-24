@@ -1,0 +1,17 @@
+[
+    {
+        "name": "\u308a\u3093\u3054",
+        "price": 150,
+        "stock": 10
+    },
+    {
+        "name": "\u30d0\u30ca\u30ca",
+        "price": 200,
+        "stock": 5
+    },
+    {
+        "name": "\u307f\u304b\u3093",
+        "price": 120,
+        "stock": 8
+    }
+]
