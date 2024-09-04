@@ -6,11 +6,10 @@ namespace Tests;
 
 use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\TestCase;
-use Spatie\Snapshots\MatchesSnapshots;
 
 class SnapshotTest extends TestCase
 {
-    use MatchesSnapshots;
+    use MyMatchesSnapshots;
 
     #[Test]
     public function snapshot(): void
