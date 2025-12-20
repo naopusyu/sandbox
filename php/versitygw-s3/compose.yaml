@@ -1,0 +1,12 @@
+services:
+  versitygw:
+    image: versity/versitygw:latest
+    ports:
+      - "7070:7070"
+    environment:
+      - ROOT_ACCESS_KEY=dummy
+      - ROOT_SECRET_KEY=dummy
+      - VGW_REGION=ap-northeast-1
+    command: posix /data
+    volumes:
+      - ./data:/data
