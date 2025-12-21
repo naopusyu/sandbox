@@ -5,7 +5,6 @@ require_once 'vendor/autoload.php';
 use Aws\S3\S3Client;
 use Aws\S3\Exception\S3Exception;
 
-// 環境変数から設定を読み込む
 $config = [
     'region' => 'ap-northeast-1',
     'version' => 'latest',
