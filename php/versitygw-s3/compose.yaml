@@ -1,6 +1,6 @@
 services:
   versitygw:
-    image: versity/versitygw:1.0.20
+    image: versity/versitygw:v1.0.20
     ports:
       - "7070:7070"
     environment:
