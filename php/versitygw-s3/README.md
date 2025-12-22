@@ -10,4 +10,4 @@ https://github.com/versity/versitygw を使って、PHPからS3のファイル�
 
 PHPからs3を操作するためにaws-sdk-phpを使う
 
-- aws/aws-sdk-php 3.368.1
+- aws/aws-sdk-php 3.369.0
